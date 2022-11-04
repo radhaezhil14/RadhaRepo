@@ -1,0 +1,12 @@
+org\re\mavenproject\MapstructDemo\mapper\ProfileDTOMapper.class
+org\re\mavenproject\MapstructDemo\model\Address.class
+org\re\mavenproject\MapstructDemo\model\Education.class
+org\re\mavenproject\MapstructDemo\App.class
+org\re\mavenproject\MapstructDemo\dto\UserDTO.class
+org\re\mavenproject\MapstructDemo\dto\EductionDTO.class
+org\re\mavenproject\MapstructDemo\mapper\UserMapperImpl.class
+org\re\mavenproject\MapstructDemo\mapper\UserMapper.class
+org\re\mavenproject\MapstructDemo\dto\AddressDTO.class
+org\re\mavenproject\MapstructDemo\model\User.class
+org\re\mavenproject\MapstructDemo\dto\ProfileDTO.class
+org\re\mavenproject\MapstructDemo\mapper\ProfileDTOMapperImpl.class
